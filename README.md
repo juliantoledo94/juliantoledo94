@@ -1,3 +1,7 @@
+<div aling="center">
+  <h1 style="text-align:center;">Hello! I'm Julian Toledo👋</h1>
+</div>
+<img src="https://raw.githubusercontent.com/juliantoledo94/Imagenes/master/banner-github.jpg?token=GHSAT0AAAAAACMAVL4SHYBO5YL3XCEQTD2CZM3C5QQ" alt="Banner diseñado para github"> 
 <p>👋 Hello world! I'm Julian Toledo, a passionate student of web design and development 🚀. My heart beats to the rhythm of JavaScript, HTML, and CSS, while my creativity comes to life in Photoshop and Illustrator 🎨. I also venture into the audiovisual world with Adobe Premiere Pro 🎬.</p>
 
 <p>🌐 Always on the lookout for new ways to express ideas and experiences through design and code. My projects are like digital brushes that breathe life into my creative visions 💡.</p>
