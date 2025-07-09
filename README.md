@@ -14,7 +14,7 @@ Right now, I'm exploring the HubSpot API and connecting it to a custom REST API 
 
 Outside tech: 🏋️ I enjoy working out, 🎧 listening to music, 🎮 gaming, 🍻 hanging out at bars, and 🎌 watching anime.
 
-📫 Reach out to me at: [juliantoledo94@hotmail.com]
+📫 Reach out to me at: juliantoledo94@hotmail.com
 
 ## My Skills Include
 
