@@ -1,23 +1,17 @@
-<div aling="center">
-  <h1 style="text-align:center;">Hello! I'm Julian Toledo👋</h1>
-</div>
-<img src="https://github.com/juliantoledo94/Imagenes/blob/master/banner-github.jpg?raw=true" alt="Banner diseñado para github"> 
-<p>👋 Hello world! I'm Julian Toledo, a passionate student of web design and development 🚀. My heart beats to the rhythm of JavaScript, HTML, and CSS, while my creativity comes to life in Photoshop and Illustrator 🎨. I also venture into the audiovisual world with Adobe Premiere Pro 🎬.</p>
+<h1 align="center">Hi , I'm Julián Toledo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>🌐 Always on the lookout for new ways to express ideas and experiences through design and code. My projects are like digital brushes that breathe life into my creative visions 💡.</p>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<p>🚀 <strong>Highlighted Skills:</strong></p>
-<ul>
-  <li>HTML, CSS, JavaScript 💻</li>
-  <li>Photoshop and Illustrator 🖌️</li>
-  <li>Adobe Premiere Pro 🎥</li>
-</ul>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<p>🌈 Exploring the creative and technological spectrum to leave my unique mark on the web. Join me on my journey as we build memorable experiences together! 🌟</p>
+I'm a Web Design and Development student currently working as a Full Stack Web Developer. I work with HTML, CSS, JavaScript, Node.js, Express, MongoDB, and SQL. I love to learn and build something new, productive, innovative, and creative.
+Right now, I'm exploring the HubSpot API and connecting it to a custom REST API I built with Node.js.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* **I'm interested in web design, digital marketing, automation, and SEO.
+🌱 I’m currently learning React.js and Vue.js.
+👯 I’m looking forward to collaborating on open source projects.
+✔️ Ask me anything — I’m happy to help if it’s within my reach! 😉
 
+Outside tech: 🏋️ I enjoy working out, 🎧 listening to music, 🎮 gaming, 🍻 hanging out at bars, and 🎌 watching anime.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliantoledo94&show_icons=true&locale=en" alt="juliantoledo94" /></p>
-
+📫 Reach out to me at: [juliantoledo94@hotmail.com]
